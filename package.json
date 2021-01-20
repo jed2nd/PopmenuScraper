@@ -1,0 +1,19 @@
+{
+  "name": "popmenuscraper",
+  "version": "0.0.1",
+  "description": "Package to scrape data from popmenu formatted websites into local datastrutures",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jed2nd/PopmenuScraper.git"
+  },
+  "author": "Jed Levin",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jed2nd/PopmenuScraper/issues"
+  },
+  "homepage": "https://github.com/jed2nd/PopmenuScraper#readme"
+}
