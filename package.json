@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jed2nd/PopmenuScraper/issues"
   },
-  "homepage": "https://github.com/jed2nd/PopmenuScraper#readme"
+  "homepage": "https://github.com/jed2nd/PopmenuScraper#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
 }
